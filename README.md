@@ -1,75 +1,75 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Bem vindo ao Repositório do Reb Store ! App web de compras Online !
+Aplicação desenvolvida para usuários que tem como intuito realizar uma simulação de aplicação web de compras de produtos.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Sumário
+* Quem sou eu?
+* O que foi desenvolvido?
+* Protótipo de projeto.
+* Estratégias utilizadas.
+* Tecnologias e habilidades utilizadas.
+* Demonstração da aplicação.
+* Como acessar o projeto?
+* Requisitos do projeto.
+* Quais foram os principais desafios desse projeto.
+* Destaque desse projeto.
+* Observações sobre o projeto.
 
-## Available Scripts
+## Quem sou eu?
+Olá, me chamo Emídio. Eu sou desenvolvedor Front-End React Jr. formado pela @trybe.
 
-In the project directory, you can run:
+Eu sou aquela pessoa que sempre gostei de exercitar minha lógica. De maneira geral, eu sempre quis escolher alguma profissão que eu pudesse exercitar isso, tanto que nos meus 18 anos de idade quando eu fui escolher o curso para entrar na universidade eu escolhi engenharia mecânica por ser algo que fazia muito sentindo para mim na época.
 
-### `npm start`
+Felizmente consegui me formar, hoje eu sou Engenheiro Mecânico formado pela UFC. No entanto, não foi algo que me completou. Eu queria buscar uma profissão que eu pudesse ter 3 coisas:
+1- liberdade geográfica
+2 - eu pudesse trabalhar com lógica de programação
+3 - E que eu pudesse fazer a diferença na vida das pessoas.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Foi a partir daí que eu decidi me dedicar a um futuro focado em tecnologia.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+E estou aqui buscando entrar no time EQI Investimentos, para que eu possa somar no mercado de assessoria financeira do brasil e do mundo.
 
-### `npm test`
+## O que foi desenvolvido?
+Foi construido um front-end para um site de compras online. A aplicação permite ao usuário realizar [uma simulação de rendimentos de acordo com o tipo de indexação e tipo de rendimento escolhido. O front-end deve ser construído utilizando  React e seguindo os wireframes apresentados abaixo.]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Estratégias utilizadas.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠 Tecnologias e habilidades utilizadas.
+- Figma para o desenvolvimento da interface.
+- Desenvolvimento Front-end: JavaScript, React, css e Hooks.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Demonstração da aplicação.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Como acessar o projeto?
+1. Para API funcionar
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Rodando o projeto
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Clone o repositório `https://github.com/emidioreb/investmentSimulator`.
+- Entre na pasta do repositório que você acabou de clonar.
+- Execute `npm install` e `npm start`. A aplicação vai ficar localizada em  http://localhost:3000.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Protótipo do projeto.
+https://www.figma.com/file/z5XXvkLLmLDo7QfdBqr0Qr/Untitled?node-id=0%3A1
 
-### Code Splitting
+## Requisitos do projeto.
+### Desenvolvimento das telas de Simulador de Investimento.
+- [ ] Configuração do eslint.
+- [ ] Desenvolvimento da aplicação no figma.
+- [ ] Adição de hooks personalizados para melhor manipulação do estado da aplicação.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Quais foram os principais desafios desse projeto ?
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Destaque desse projeto.
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Observações sobre o Projeto.
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# rebStore
-Esse projeto é a criação de um aplicativo web de compras de produtos
->>>>>>> 99b5a965c744b44e145306e764d9670ea8e67222
+  
