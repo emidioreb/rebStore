@@ -26,7 +26,6 @@ Felizmente consegui me formar, hoje eu sou Engenheiro Mecânico formado pela UFC
 
 Foi a partir daí que eu decidi me dedicar a um futuro focado em tecnologia.
 
-E estou aqui buscando entrar no time EQI Investimentos, para que eu possa somar no mercado de assessoria financeira do brasil e do mundo.
 
 ## O que foi desenvolvido?
 Foi construido um front-end para um site de compras online.
