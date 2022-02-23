@@ -55,7 +55,7 @@ Foi construido um front-end para um site de compras online.
 
 
 ## Protótipo do projeto.
-https://www.figma.com/file/z5XXvkLLmLDo7QfdBqr0Qr/Untitled?node-id=0%3A1
+[Em construção]
 
 ## Requisitos do projeto.
 ### Desenvolvimento das telas de Simulador de Investimento.
