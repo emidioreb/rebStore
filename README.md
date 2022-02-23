@@ -29,7 +29,7 @@ Foi a partir daí que eu decidi me dedicar a um futuro focado em tecnologia.
 E estou aqui buscando entrar no time EQI Investimentos, para que eu possa somar no mercado de assessoria financeira do brasil e do mundo.
 
 ## O que foi desenvolvido?
-Foi construido um front-end para um site de compras online. A aplicação permite ao usuário realizar [uma simulação de rendimentos de acordo com o tipo de indexação e tipo de rendimento escolhido. O front-end deve ser construído utilizando  React e seguindo os wireframes apresentados abaixo.]
+Foi construido um front-end para um site de compras online.
 
 ## Estratégias utilizadas.
 
