@@ -1,0 +1,29 @@
+@mixin flexCenter($justify ,$align ,$direction){
+  display: flex;
+  justify-content: $justify;
+  align-items: $align;
+  flex-direction: $direction;
+}
+
+.login-all{
+   @include flexCenter(space-around, center, row);
+    // border: 2px solid red;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    .image-login{
+      @include flexCenter(center, center, row);
+      height: 100%;
+      width: 50%;
+      background-color: pink;
+    }
+    .login-screen{
+      @include flexCenter(center, center, row);
+      height: 100%;
+      width: 50%;
+      background-color: blue;
+      button{
+        background-color: $primaryBtn;
+      }
+  }
+}
